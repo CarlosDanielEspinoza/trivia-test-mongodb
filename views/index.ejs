@@ -1,0 +1,27 @@
+<%- include("./templates/header.ejs",{titleWeb : "Inicio"}) %>
+
+<body>
+    <header class="cabecera">
+        <h1> Trivias </h1>
+    </header>
+
+    <section class="cuerpo">
+        <article class="login">
+            <h2> Tus Datos </h2>
+            <form class="login__form">
+                <label for="name" class="form__etiquetas"> Nombre </label>
+                <input type="text" id="name" maxlength="15" class="form__campos">
+                <label for="age" class="form__etiquetas"> Edad </label>
+                <select id="age" class="form__campos"></select>
+                <button type="button" id="btnAccept" class="form__campos"> Aceptar </button>
+            </form>    
+        </article>
+    </section>
+
+    <footer class="pie">
+        <p> Made by Carlos Espinoza</p>
+    </footer>
+
+    <script src="./js/mainIndex.js"></script>
+</body>
+</html>

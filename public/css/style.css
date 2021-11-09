@@ -1,0 +1,154 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Helvetica,Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+html{
+    height: 100%;
+}
+body{
+    min-height: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.cabecera{
+    color: whitesmoke;
+    background-color: rgb(148, 112, 129);
+}
+.pie{
+    padding: 0.3rem;
+    color: whitesmoke;
+    background-color: rgb(148, 112, 129);
+}
+.cuerpo{
+    flex: 1 0 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.login{
+    color: whitesmoke;
+    background-color: rgb(148, 112, 129);
+    padding: 2%;
+    width: auto;
+    text-align: center;
+    border-radius: 1rem;
+}
+.login__form{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
+.form__campos{
+    margin: 0.2rem;
+    color: rgb(148, 112, 129);
+    font-weight: bold;
+    text-align: center;
+}
+.form__etiquetas{
+    margin: 0.2rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.categorias{
+    color: whitesmoke;
+    background-color: rgb(148, 112, 129);
+    padding: 2%;
+    width: auto;
+    text-align: center;
+    border-radius: 1rem;
+}
+.categorias__titulo{
+    margin-bottom: 0.3rem;
+}
+.categorias__botones{
+    margin:0.2rem;
+    padding:0.2rem;
+    user-select: none;
+    cursor: pointer;
+    width: 7rem;
+}
+
+.boxQuestion{
+    background-color: rgb(148, 112, 129);
+    color: whitesmoke;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.boxQuestion__question{
+    margin: 0.5rem;
+    flex: 100%;
+}
+.boxQuestion__option{
+    flex: 1 0 0;
+    text-align: center;
+}
+.option__label{
+    margin: 0.5rem;
+}
+#check{
+    margin: 1rem;
+    padding: 0.3rem;
+    color: rgb(148, 112, 129);
+}
+#checkBox{
+    margin: 0.5rem;
+}
+.alertQuestions{
+    min-width: 80%;
+    padding: 0.2rem;
+    background-color: rgb(218, 0, 0);
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(148, 0, 0);
+    border-radius: 0.5rem;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.resultados{
+    color: whitesmoke;
+    background-color: rgb(148, 112, 129);
+    width: 90%;
+    margin: 0.5rem;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}
+
+table{
+    background-color:rgba(255, 255, 255, 0.1);
+    width: 100%;
+    border: 0.2em solid rgb(148, 112, 129);
+    border-collapse: collapse;
+    border-radius: 1em;
+    text-align: center;
+
+}
+
+th, td {
+    border-radius: 1em;
+    border: 0.2em solid rgb(148, 112, 129);
+    border-collapse: collapse;
+    background-color:rgba(255, 255, 255, 0.1);
+    padding: 0.2em;
+    font-style: italic;
+}
+
+th {
+    border-radius: 1em;
+    font-weight: bolder;
+    padding: 0.3em;
+    background-color: #ab7991;
+    font-style: normal;
+}

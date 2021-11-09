@@ -1,0 +1,32 @@
+<%- include("./templates/header.ejs",{titleWeb : "Categorías"}) %>
+
+<body>
+    <header class="cabecera">
+        <h1> Categorias </h1>
+    </header>
+
+    <section class="cuerpo">
+        <article class="categorias">
+            <h2 class="categorias__titulo"> Selecciona una Categoría </h2>
+        
+            <button id="bio" title="Biología"> 
+                <img src="./img/hoja.png" alt="hojita" class="categorias__botones"> 
+            </button>
+
+            <button id="fi" title="Fisica"> 
+                <img src="./img/fisico.png" alt="atomo" class="categorias__botones">
+            </button>
+
+            <button id="phy" title="Filosofía"> 
+                <img src="./img/filosofia.png" alt="Simbolo de filosofia" class="categorias__botones">
+            </button>
+        </article>
+    </section>
+
+    <footer class="pie">
+        <p> Made by Carlos Espinoza</p>
+    </footer>
+
+    <script src="./js/categoryMain.js"></script>
+</body>
+</html>

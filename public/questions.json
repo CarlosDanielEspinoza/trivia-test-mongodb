@@ -1,0 +1,309 @@
+{
+    "Filosofia" : [
+        {
+            "pregunta" : "¿De cuál de estas obras se le atribuye la autoría al filósofo Immanuel Kant?",
+            "opciones": [
+                "Crítica de la razón pura",
+                "Tratado el hombre",
+                "El ser y la nada",
+                "Así habló Zaratustra"
+            ],
+            "respuesta": "Crítica de la razón pura"
+        },
+        {
+            "pregunta" : "¿Qué nombre recibe la teoría filosófica que explica alegóricamente la situación del hombre frente al conocimiento?",
+            "opciones": [
+                "El mito de la Caverna",
+                "La rana y el escorpión",
+                "El mito de Sísifo",
+                "Mito del carro alado"
+            ],
+            "respuesta": "El mito de la Caverna"
+        },
+        {
+            "pregunta" : "¿Qué filósofo implantó el diálogo como método óptimo para la enseñanza de saberes?",
+            "opciones": [
+                "Sócrates",
+                "Platón",
+                "Eurípides",
+                "Tales de Mileto"
+            ],
+            "respuesta": "Sócrates"
+        },
+        {
+            "pregunta" : "¿Qué nombre recibe la ética que afirma que el fin último de la actuación humana es la búsqueda de la felicidad?",
+            "opciones": [
+                "Eudemonismo",
+                "Emotivismo",
+                "Estoicismo",
+                "Hedonismo"
+            ],
+            "respuesta": "Eudemonismo"
+        },
+        {
+            "pregunta" : "¿Cuál de estos filósofos no perteneció a la corriente racionalista?",
+            "opciones": [
+                "David Hume",
+                "Immanuel Kant",
+                "Baruch Spinoza",
+                "René Descartes"
+            ],
+            "respuesta": "David Hume"
+        },
+        {
+            "pregunta" : "¿Qué filósofo emplea la metáfora de los dioses conjuntos para explicar las relaciones entre el mundo y la subjetividad?",
+            "opciones": [
+                "José Ortega y Gasset",
+                "Jean Paul Sartre",
+                "Anaximandro de Mileto",
+                "Heráclito"
+            ],
+            "respuesta": "José Ortega y Gasset"
+        },
+        {
+            "pregunta" : "¿Qué escuela filosófica consideraba que los números eran el principio determinante y estructura de toda la realidad?",
+            "opciones": [
+                "Escuela pitagórica",
+                "Escuela Sofista",
+                "Escuela de Mileto",
+                "Escuela cirenaica"
+            ],
+            "respuesta": "Escuela pitagórica"
+        },
+        {
+            "pregunta" : "¿Qué filósofo fue el encargado de articular las tres leyes de la naturaleza en el Leviatán?",
+            "opciones": [
+                "Thomas Hobbes",
+                "Friedrich Nietzsche",
+                "Friedrich Hegel",
+                "Gottfried Leibniz"
+            ],
+            "respuesta": "Thomas Hobbes"
+        },
+        {
+            "pregunta" : "¿A qué filosofo pertenece la teoría del tiempo conocida como Eterno Retorno?",
+            "opciones": [
+                "Friedrich Nietzsche",
+                "Thomas Hobbes",
+                "Immanuel Kant",
+                "Guillermo de Ockham"
+            ],
+            "respuesta": "Friedrich Nietzsche"
+        },
+        {
+            "pregunta" : "¿A cuál de estos filósofos se le atribuye el paso a la filosofía moderna?",
+            "opciones": [
+                "René Descartes",
+                "Arthur Schopenhauer",
+                "Immanuel Kant",
+                "John Locke"
+            ],
+            "respuesta": "René Descartes"
+        }
+    ],
+
+    "Fisica" : [
+        {
+            "pregunta" : "¿Qué es la trayectoria de un móvil?",
+            "opciones": [
+                "Es la línea que describe en su movimiento",
+                "Es la dirección del movimiento",
+                "Es la dirección y sentido del movimiento",
+                "Es el  sentido del movimiento"
+            ],
+            "respuesta": "Es la línea que describe en su movimiento"
+        },
+        {
+            "pregunta" : "¿En qué unidad se mide la presión?",
+            "opciones": [
+                "Pascales",
+                "Kg",
+                "m/s",
+                "Newton"
+            ],
+            "respuesta": "Pascales"
+        },
+        {
+            "pregunta" : "¿Dónde nació Isaac Newton?",
+            "opciones": [
+                "Inglaterra",
+                "Dinamarca",
+                "Finlandia",
+                "Escocia"
+            ],
+            "respuesta": "Inglaterra"
+        },
+        {
+            "pregunta" : "Una masa de kilogramo, ¿a qué peso equivale en newton?",
+            "opciones": [
+                "9.8N",
+                "5.8N",
+                "7.2N",
+                "6.3N"
+            ],
+            "respuesta": "9.8N"
+        },
+        {
+            "pregunta" : "¿Quién originó esta frase?: Dadme un punto de apoyo y moveré el mundo",
+            "opciones": [
+                "Arquímedes",
+                "Demócrito",
+                "Aristóteles",
+                "Sócrates"
+            ],
+            "respuesta": "Arquímedes"
+        },
+        {
+            "pregunta" : "¿Cuál de estas velocidades corresponde a los movimientos circulares?",
+            "opciones": [
+                "Velocidad angular",
+                "Velocidad media",
+                "Velocidad de trayectoria",
+                "Velocidad lineal"
+            ],
+            "respuesta": "Velocidad angular"
+        },
+        {
+            "pregunta" : "¿En qué unidad se mide la velocidad angular?",
+            "opciones": [
+                "Rad/s",
+                "Newton",
+                "Km/h",
+                "m/s"
+            ],
+            "respuesta": "Rad/s"
+        },
+        {
+            "pregunta" : "¿Qué es el módulo de un vector?",
+            "opciones": [
+                "El valor de la magnitud que representa",
+                "Su punto de inicio",
+                "El punto medio del vector",
+                "La dirección en la que está orientado"
+            ],
+            "respuesta": "El valor de la magnitud que representa"
+        },
+        {
+            "pregunta" : "¿En qué unidad se mide el trabajo?",
+            "opciones": [
+                "Julios",
+                "Newton",
+                "Watios",
+                "Pascales"
+            ],
+            "respuesta": "Julios"
+        },
+        {
+            "pregunta" : "¿Cuál es el valor de la gravedad de la Tierra?",
+            "opciones": [
+                "9.8 m/s2",
+                "10 m/s",
+                "10 m/s2",
+                "9.8 m/s"
+            ],
+            "respuesta": "9.8 m/s2"
+        }
+    ],
+    "Biologia" : [
+        {
+            "pregunta" : "¿Dónde termina el intestino grueso?",
+            "opciones": [
+                "Recto",
+                "Intestino delgado",
+                "Estómago",
+                "Ninguna de las anteriores"
+            ],
+            "respuesta": "Recto"
+        },
+        {
+            "pregunta" : "¿Qué recubre la pleura?",
+            "opciones": [
+                "Los pulmones",
+                "La laringe",
+                "El corazón",
+                "El higado"
+            ],
+            "respuesta": "Los pulmones"
+        },
+        {
+            "pregunta" : "¿Cómo se llama el científico que acuñó por primera vez el término 'célula'?",
+            "opciones": [
+                "Robert Hooke",
+                "Johannes Keple",
+                "Gregor Mendel",
+                "Michael Faraday"
+            ],
+            "respuesta": "Robert Hooke"
+        },
+        {
+            "pregunta" : "Las células reproductoras se dividen por...",
+            "opciones": [
+                "Meiosis",
+                "Mitosis",
+                "Metamorfosis",
+                "Ninguna es correcta"
+            ],
+            "respuesta": "Meiosis"
+        },
+        {
+            "pregunta" : "¿Qué mamífero no puede mirar hacia arriba?",
+            "opciones": [
+                "Cerdo",
+                "Jirafa",
+                "Rinoceronte",
+                "Perro"
+            ],
+            "respuesta": "Cerdo"
+        },
+        {
+            "pregunta" : "La diabetes es una enfermedad de tipo...",
+            "opciones": [
+                "Endocrina",
+                "Nerviosa",
+                "Circulatoria",
+                "Ninguna de las anteriores"
+            ],
+            "respuesta": "Endocrina"
+        },
+        {
+            "pregunta" : "Las sustancias alimenticias como el almidón sufren una primera digestión en...",
+            "opciones": [
+                "La boca",
+                "El estomago",
+                "La traquea",
+                "El intestino delgado"
+            ],
+            "respuesta": "La boca"
+        },
+        {
+            "pregunta" : "¿Cuántos pares de cromosomas tiene una persona?",
+            "opciones": [
+                "23",
+                "22",
+                "24",
+                "21"
+            ],
+            "respuesta": "23"
+        },
+        {
+            "pregunta" : "¿Cómo se llama la teoría que considera que todos los organismos descendemos del mismo ancestro?",
+            "opciones": [
+                "Darwinismo",
+                "Gradualismo",
+                "Creacionismo",
+                "Universalismo"
+            ],
+            "respuesta": "Darwinismo"
+        },
+        {
+            "pregunta" : "Las abejas depende de las flores para alimentarse y estas últimas necesitan a estos insectos para la polinización. Esta relación se llama...",
+            "opciones": [
+                "Mutualismo",
+                "Cooperacionismo",
+                "Amenalismo",
+                "Comensalismo"
+            ],
+            "respuesta": "Mutualismo"
+        }
+    ]
+}

@@ -30,14 +30,12 @@ router.get(/(\bFilosofia\b)|(\bBiologia\b)|(\bFisica\b)/, async (req, res)=>{
 			}
 			return 0;
 		});
-		console.log(searchOrder);
 
 		let found = []; 
 		for(let i = 0; i < 10; i++){
 			if(searchOrder[i] == undefined) break;
 			found.push(searchOrder[i]);
 		}
-		console.log(found);
 
 		res.render("result.ejs", {data : found} );
 
